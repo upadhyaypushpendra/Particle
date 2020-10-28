@@ -4,4 +4,4 @@
 
 #Have a look at this at : 
 
-https://upadhyaypushpendra.github.io/particles/
+https://upadhyaypushpendra.github.io/Particle/
