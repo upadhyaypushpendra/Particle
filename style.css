@@ -12,3 +12,36 @@ body{
     top : 0;
     left: 0;
 }
+.next-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top:20px;
+    right : 20px;
+    height: 30px;
+    width:80px;
+    z-index: 1000;
+    border-radius: 30px;
+    background-color: white;
+    color:black;
+    box-shadow: 0 0 10px 3px greenyellow;
+}
+
+.message {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    bottom:20px;
+    left : calc(50% - 175px);
+    height: 30px;
+    width : 350px;
+    padding: 5px 10px;
+    z-index: 1000;
+    border-radius: 30px;
+    background-color: white;
+    color:black;
+    text-transform: uppercase;
+    box-shadow: 0 0 10px 3px greenyellow;
+}
